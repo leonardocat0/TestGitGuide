@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public class Persone {
+public class Persona {
     private String nome;
     private String cognome;
     private String codiceFiscale;
