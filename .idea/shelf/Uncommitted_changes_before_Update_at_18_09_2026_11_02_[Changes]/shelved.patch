@@ -1,0 +1,17 @@
+Index: src/Persona.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Persona {\r\n    private String nome;\r\n    private String cognome;\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Persona.java b/src/Persona.java
+--- a/src/Persona.java	(revision b24edff586cd65907c7a7c2a492aca49f33c9b03)
++++ b/src/Persona.java	(date 1789722024253)
+@@ -1,5 +1,5 @@
+ public class Persona {
+     private String nome;
+     private String cognome;
+-
++    
+ }

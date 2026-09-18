@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1acb6d2f-1198-4652-a521-fb69c55a0b81" name="Changes" comment="unito le classi persona" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JUU6WhORsSfOOq4iow6QEPAmus" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/leona/IdeaProjects/TestGitguide/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1acb6d2f-1198-4652-a521-fb69c55a0b81" name="Changes" comment="" />
+      <created>1789714967848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789714967848</updated>
+    </task>
+    <task id="LOCAL-00001" summary="aggiunto il primo file">
+      <option name="closed" value="true" />
+      <created>1789715288001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789715288002</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aggiunti i file Persona.java e Automobile.java">
+      <option name="closed" value="true" />
+      <created>1789716463203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789716463203</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aggiunto classi ad automobile">
+      <option name="closed" value="true" />
+      <created>1789721278021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789721278021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aggiunto classe persona">
+      <option name="closed" value="true" />
+      <created>1789721408809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789721408809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sistemato classe persona">
+      <option name="closed" value="true" />
+      <created>1789721912928</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789721912928</updated>
+    </task>
+    <task id="LOCAL-00006" summary="eliminato classe persona">
+      <option name="closed" value="true" />
+      <created>1789722015612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1789722015612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="unito le classi persona">
+      <option name="closed" value="true" />
+      <created>1789722187432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1789722187432</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aggiunto il primo file" />
+    <MESSAGE value="aggiunti i file Persona.java e Automobile.java" />
+    <MESSAGE value="aggiunto classi ad automobile" />
+    <MESSAGE value="aggiunto classe persona" />
+    <MESSAGE value="sistemato classe persona" />
+    <MESSAGE value="eliminato classe persona" />
+    <MESSAGE value="unito le classi persona" />
+    <option name="LAST_COMMIT_MESSAGE" value="unito le classi persona" />
+  </component>
+</project>
